@@ -1,0 +1,2 @@
+# Reload/Load message
+tellraw @p ["",{"text":"[","color":"light_purple"},{"text":" Q","obfuscated":true,"color":"light_purple"},{"text":" Talisman datapack","color":"yellow"},{"text":" Q","obfuscated":true,"color":"light_purple"},{"text":" ]","color":"light_purple"},{"text":" Successfully Loaded","bold":true,"color":"gold"}]

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "health_1lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:health/health_1lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:health/give_health_1lv"
+  }
+}

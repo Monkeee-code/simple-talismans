@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "slow_falling": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:slow_falling/slow_falling"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:slow_falling/give_slow_falling"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "water": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:water/water"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:water/give_water"
+  }
+}

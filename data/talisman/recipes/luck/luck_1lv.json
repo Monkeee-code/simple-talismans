@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "232",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:gold_block"
+        },
+        "2": {
+            "item": "minecraft:iron_block"
+        },
+        "3": {
+            "item": "minecraft:oak_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "speed_1lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:speed/speed_1lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:speed/give_speed_1lv"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "luck_1lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:luck/luck_1lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:luck/give_luck_1lv"
+  }
+}

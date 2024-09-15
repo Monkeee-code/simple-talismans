@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "poison_2lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:poison/poison_2lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:poison/give_poison_2lv"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "luck_2lv": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "talisman:luck/luck_2lv"
+        }
+      }
+    },
+    "rewards": {
+      "function": "talisman:luck/give_luck_2lv"
+    }
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "speed_2lv": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "talisman:speed/speed_2lv"
+        }
+      }
+    },
+    "rewards": {
+      "function": "talisman:speed/give_speed_2lv"
+    }
+  }
+  

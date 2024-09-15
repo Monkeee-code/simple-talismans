@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "night_vision": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:night_vision/night_vision"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:night_vision/give_night_vision"
+  }
+}

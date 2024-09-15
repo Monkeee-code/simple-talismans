@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "health_3lv": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "talisman:health/health_3lv"
+        }
+      }
+    },
+    "rewards": {
+      "function": "talisman:health/give_health_3lv"
+    }
+  }
+  

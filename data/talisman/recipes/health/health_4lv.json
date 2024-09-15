@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        "121",
+        " 1 "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:nether_star"
+        },
+        "2": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

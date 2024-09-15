@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "saturation_1lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:saturation/saturation_1lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:saturation/give_saturation_1lv"
+  }
+}

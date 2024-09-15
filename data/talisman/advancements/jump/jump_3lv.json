@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "jump_3lv": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "talisman:jump/jump_3lv"
+        }
+      }
+    },
+    "rewards": {
+      "function": "talisman:jump/give_jump_3lv"
+    }
+  }
+  

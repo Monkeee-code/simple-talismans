@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "323",
+        "212",
+        "323"
+    ],
+    "key": {
+        "1": {"item": "minecraft:prismarine_crystals"},
+        "2": {"item": "minecraft:glass_bottle"},
+        "3": {"item": "minecraft:lapis_lazuli"}
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

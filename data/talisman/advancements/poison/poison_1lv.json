@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "poison_1lv": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:poison/poison_1lv"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:poison/give_poison_1lv"
+  }
+}

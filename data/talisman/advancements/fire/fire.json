@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fire": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "talisman:fire/fire"
+      }
+    }
+  },
+  "rewards": {
+    "function": "talisman:fire/give_fire"
+  }
+}
